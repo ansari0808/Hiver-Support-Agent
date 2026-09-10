@@ -1,4 +1,4 @@
-# AI Support Agent — AmazonHelp (Customer Support on Twitter)
+# AI Support Agent — HiverHelp (Customer Support on Twitter)
 
 An AI agent that (1) classifies incoming customer tweets into intents, (2) drafts a
 reply grounded in how the brand has historically resolved similar issues (RAG over

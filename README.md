@@ -105,3 +105,4 @@ scripts/
 report/REPORT_TEMPLATE.md
 DECISION_LOG.md
 ```
+<img width="1512" height="982" alt="Screenshot 2026-09-10 at 10 10 19 PM" src="https://github.com/user-attachments/assets/d78cee80-d68c-4ab3-aaac-4f5d4e664b83" />
